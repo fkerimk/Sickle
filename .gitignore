@@ -1,3 +1,6 @@
 .*/
+
 Heart/
 Mapper/
+
+*.DotSettings.*
