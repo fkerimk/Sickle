@@ -1,0 +1,4 @@
+<Solution>
+    <Project Path="Heart/Sickle-Heart.csproj" />
+    <Project Path="Mapper/Sickle-Mapper.csproj" />
+</Solution>
