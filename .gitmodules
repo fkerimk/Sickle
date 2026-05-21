@@ -1,0 +1,8 @@
+[submodule "Heart"]
+	path = Heart
+	url = git@github.com:fkerimk/Sickle-Heart.git
+	branch = main
+[submodule "Mapper"]
+	path = Mapper
+	url = git@github.com:fkerimk/Sickle-Mapper.git
+	branch = main
